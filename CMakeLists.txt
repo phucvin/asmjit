@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.19 FATAL_ERROR)
+cmake_minimum_required(VERSION 3.16.3 FATAL_ERROR)
 
 # Don't create a project if it was already created by another CMakeLists.txt. This makes
 # it possible to support both add_subdirectory() and include() ways of using AsmJit as a
